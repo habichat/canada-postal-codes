@@ -4,6 +4,7 @@
   "description": "Get all postal codes for canada from wikipedia",
   "main": "index.js",
   "scripts": {
+    "merge": "node ./src/compilers/merge-all.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,5 +17,7 @@
     "url": "https://github.com/habichat/canada-postal-codes/issues"
   },
   "homepage": "https://github.com/habichat/canada-postal-codes#readme",
-  "dependencies": {}
+  "dependencies": {
+    "package-merge": "^0.1.2"
+  }
 }
