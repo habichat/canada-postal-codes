@@ -1,4 +1,4 @@
-// _A Urban crawler
+// https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_A - L
 const tables = document.querySelectorAll('table')
 const json = {}
 
