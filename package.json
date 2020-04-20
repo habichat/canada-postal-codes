@@ -1,0 +1,20 @@
+{
+  "name": "canada-postal-codes",
+  "version": "1.0.0",
+  "description": "Get all postal codes for canada from wikipedia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/habichat/canada-postal-codes.git"
+  },
+  "author": "habichat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/habichat/canada-postal-codes/issues"
+  },
+  "homepage": "https://github.com/habichat/canada-postal-codes#readme",
+  "dependencies": {}
+}
